@@ -1,7 +1,4 @@
-saffyre
-=======
+PHP Junk
+========
 
-This is a php framework I use on personal projects.
-
-Don't use it, 'cause the version here on github is out of date and I haven't gotten around to uploading the 
-latest files. Maybe I will soon!
+These are php libraries I've written over the years. Everything is well-used but not formally tested. Use at your own risk!
